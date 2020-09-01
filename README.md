@@ -1,1 +1,1 @@
-# Synapsi_Interships_Tasks
+# Synapsi_Internship_Tasks
